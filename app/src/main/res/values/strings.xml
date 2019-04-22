@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quizdapp</string>
+    <string name="app_name">QuizShow</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -10,4 +10,15 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- chpark 19.04.18 -->
+    <string name="create_wallet">지갑 생성</string>
+    <string name="get_balance">잔액 조회</string>
+    <string name="balance">잔액</string>
+    <string name="hint_password">password</string>
+    <string name="hint_account">0xe6a8ec4462cce533b412651f405ad1bb41e5b28a</string>
+
+    <!-- test -->
+    <string name="intent_create_wallet">Create Wallet</string>
+    <string name="msg_token_fmt">chpark</string>
 </resources>
